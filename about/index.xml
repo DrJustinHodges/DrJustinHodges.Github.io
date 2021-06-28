@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABOUT on Justin Hodges, PhD</title>
-    <link>DrJustinHodges.github.io/about/</link>
+    <link>https://DrJustinHodges.github.io/about/</link>
     <description>Recent content in ABOUT on Justin Hodges, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Justin Hodges</copyright>
     
-	<atom:link href="DrJustinHodges.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://DrJustinHodges.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

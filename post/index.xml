@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feed on Justin Hodges, PhD</title>
-    <link>DrJustinHodges.github.io/post/</link>
+    <link>https://DrJustinHodges.github.io/post/</link>
     <description>Recent content in Feed on Justin Hodges, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Justin Hodges</copyright>
     <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
     
-	<atom:link href="DrJustinHodges.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://DrJustinHodges.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Explainability in Neural Networks</title>
-      <link>DrJustinHodges.github.io/post/1_getting-started/</link>
+      <link>https://DrJustinHodges.github.io/post/1_getting-started/</link>
       <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
       
-      <guid>DrJustinHodges.github.io/post/1_getting-started/</guid>
+      <guid>https://DrJustinHodges.github.io/post/1_getting-started/</guid>
       <description>&lt;p&gt;Explainability in neural networks for the benefit of physics simulations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>What&#39;s Next, Justin?</title>
-      <link>DrJustinHodges.github.io/post/2_getting-started-number-2/</link>
+      <link>https://DrJustinHodges.github.io/post/2_getting-started-number-2/</link>
       <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
       
-      <guid>DrJustinHodges.github.io/post/2_getting-started-number-2/</guid>
+      <guid>https://DrJustinHodges.github.io/post/2_getting-started-number-2/</guid>
       <description>&lt;p&gt;Placeholder for the next article.&lt;/p&gt;</description>
     </item>
     
