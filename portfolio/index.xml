@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PORTFOLIO on Justin Hodges, PhD</title>
+    <link>DrJustinHodges.github.io/portfolio/</link>
+    <description>Recent content in PORTFOLIO on Justin Hodges, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Justin Hodges</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="DrJustinHodges.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI&#43;CFD for ICE</title>
+      <link>DrJustinHodges.github.io/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>DrJustinHodges.github.io/portfolio/sample-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

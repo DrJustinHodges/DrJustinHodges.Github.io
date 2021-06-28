@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on Justin Hodges, PhD</title>
+    <link>DrJustinHodges.github.io/techs/</link>
+    <description>Recent content in Techs on Justin Hodges, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Justin Hodges</copyright>
+    
+	<atom:link href="DrJustinHodges.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
