@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Justin Hodges</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2019 19:47:09 +0200</lastBuildDate>
     
 	<atom:link href="https://DrJustinHodges.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning and Turbulence Modeling</title>
+      <link>https://DrJustinHodges.github.io/portfolio/sample-project_turbulenceblog/</link>
+      <pubDate>Fri, 03 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://DrJustinHodges.github.io/portfolio/sample-project_turbulenceblog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Army Forms Partnership to Apply AI/ML in Military Aircraft Engine R&amp;D</title>
@@ -41,10 +50,10 @@
     
     <item>
       <title>AI&#43;CFD for ICE</title>
-      <link>https://DrJustinHodges.github.io/portfolio/sample-project/</link>
+      <link>https://DrJustinHodges.github.io/portfolio/sample-project_ice&#43;monolith/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://DrJustinHodges.github.io/portfolio/sample-project/</guid>
+      <guid>https://DrJustinHodges.github.io/portfolio/sample-project_ice&#43;monolith/</guid>
       <description></description>
     </item>
     
