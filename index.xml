@@ -1,15 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Justin Hodges, PhD</title>
+    <title>HOME on Justin Hodges, PhD</title>
     <link>https://DrJustinHodges.github.io/</link>
-    <description>Recent content on Justin Hodges, PhD</description>
+    <description>Recent content in HOME on Justin Hodges, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Justin Hodges</copyright>
+    <lastBuildDate>Fri, 03 May 2019 19:47:09 +0200</lastBuildDate>
     
 	<atom:link href="https://DrJustinHodges.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning and Turbulence Modeling</title>
+      <link>https://DrJustinHodges.github.io/portfolio/sample-project_turbulenceblog/</link>
+      <pubDate>Fri, 03 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://DrJustinHodges.github.io/portfolio/sample-project_turbulenceblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Army Forms Partnership to Apply AI/ML in Military Aircraft Engine R&amp;D</title>
+      <link>https://DrJustinHodges.github.io/post/3_army-grant-ai-project/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      
+      <guid>https://DrJustinHodges.github.io/post/3_army-grant-ai-project/</guid>
+      <description>&lt;p&gt;Another investment in AI/ML for CFD applications&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conference- Model Consistent Data driven Turbulence Modeling</title>
+      <link>https://DrJustinHodges.github.io/post/2_turbulence-conference/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      
+      <guid>https://DrJustinHodges.github.io/post/2_turbulence-conference/</guid>
+      <description>&lt;p&gt;Machine learning in turbulence modeling.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Explainability in Neural Networks</title>
+      <link>https://DrJustinHodges.github.io/post/1_getting-started/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      
+      <guid>https://DrJustinHodges.github.io/post/1_getting-started/</guid>
+      <description>&lt;p&gt;Explainability in neural networks for the benefit of physics simulations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AI&#43;CFD for ICE</title>
+      <link>https://DrJustinHodges.github.io/portfolio/sample-project_ice&#43;monolith/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://DrJustinHodges.github.io/portfolio/sample-project_ice&#43;monolith/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

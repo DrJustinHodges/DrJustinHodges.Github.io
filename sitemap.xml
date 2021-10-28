@@ -3,13 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://DrJustinHodges.github.io/designs/</loc>
+    <loc>https://DrJustinHodges.github.io/</loc>
+    <lastmod>2019-05-03T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://DrJustinHodges.github.io/</loc>
+    <loc>https://DrJustinHodges.github.io/portfolio/sample-project_turbulenceblog/</loc>
+    <lastmod>2019-05-03T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/portfolio/</loc>
+    <lastmod>2019-05-03T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/post/3_army-grant-ai-project/</loc>
+    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/post/2_turbulence-conference/</loc>
+    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/post/1_getting-started/</loc>
+    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/post/</loc>
+    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/portfolio/sample-project_ice&#43;monolith/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
