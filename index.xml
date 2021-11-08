@@ -27,7 +27,8 @@
       <pubDate>Fri, 03 May 2019 19:47:09 +0200</pubDate>
       
       <guid>https://DrJustinHodges.github.io/portfolio/sample-project_transient_video/</guid>
-      <description></description>
+      <description>The topic of AI-based transient predictions in the simulation community is a poular one. Transient simulations, atleast in CFD space, are often very expensive (computationally) and time consuming to complete. Ordinarily, the problems we seek to simulate are transient in nature, and thus more accurate to simulate them that way as well. That is one such appeal for the transient AI use case.
+However, it is quite a moon shot to learn unsteady PDEs in a general enough manner that can tackle a large amount of flow simulations.</description>
     </item>
     
     <item>
@@ -36,7 +37,10 @@
       <pubDate>Fri, 03 May 2019 19:47:09 +0200</pubDate>
       
       <guid>https://DrJustinHodges.github.io/portfolio/sample-project_5_vaee_compressor/</guid>
-      <description></description>
+      <description>The use of AI-based ROM with engineering data is indeed powerful and in the &amp;lsquo;ai spotlight&amp;rsquo;, but I think the use of autoencoders is also revolutionary and gaining visibility.
+A few inherit benefits:
+  Provides a new parameterization you may not have realized from traditional means. They provide highly 3D and &amp;lsquo;abstract&amp;rsquo; changes of the design.
+    Allows you to specify however many (or few) parameters you wish to have to recreate your geometries (e.</description>
     </item>
     
     <item>
