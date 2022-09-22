@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Justin Hodges</copyright>
-    <lastBuildDate>Fri, 03 May 2019 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2019 19:48:09 +0200</lastBuildDate>
     
 	<atom:link href="https://DrJustinHodges.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning for Marine Hull Design</title>
+      <link>https://DrJustinHodges.github.io/portfolio/sample-project_6_marine/</link>
+      <pubDate>Sat, 04 May 2019 19:48:09 +0200</pubDate>
+      
+      <guid>https://DrJustinHodges.github.io/portfolio/sample-project_6_marine/</guid>
+      <description>Thumbnail: Variational Autoencoder (VAE) structure diagram. The .stl files associated to different designs are used as input the encoder. The encoder creates a latent parameterization of these geometries, specifically the coordinates of the mesh points, which can be used to accurately re-create geometries at will by the decoder.
+This work uses Simcenter STAR-CCM+ to generate CFD data for determining the powering characteristics of a vessel and Simcenter ROM Builder and Monolith for using that data in no-code machine learning pipelines.</description>
+    </item>
     
     <item>
       <title>Machine Learning and Turbulence Modeling</title>

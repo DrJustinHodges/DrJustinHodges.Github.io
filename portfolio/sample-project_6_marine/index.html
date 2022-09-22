@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='en'><head>
-  <title>Machine Learning and Turbulence Modeling - Justin Hodges, PhD</title>
-  <link rel='canonical' href='https://DrJustinHodges.github.io/portfolio/sample-project_turbulenceblog/' />
+  <title>Machine Learning for Marine Hull Design - Justin Hodges, PhD</title>
+  <link rel='canonical' href='https://DrJustinHodges.github.io/portfolio/sample-project_6_marine/' />
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width, initial-scale=1' />
   <meta name='description' content='This is the description of our sample project' />
@@ -19,18 +19,18 @@
 <link rel="stylesheet" href="https://DrJustinHodges.github.io/sass/style.min.8a1658d134a4b54730b66789206b2cf14c1b006a6de3f3fde6302f925b6e01f5.css" integrity="sha256-ihZY0TSktUcwtmeJIGss8UwbAGpt4/P95jAvkltuAfU=" media="screen">
 <link rel="stylesheet" href="https://DrJustinHodges.github.io/syntax.min.css" integrity="" media="screen">
 
-  <meta property="og:title" content="Machine Learning and Turbulence Modeling" />
+  <meta property="og:title" content="Machine Learning for Marine Hull Design" />
 <meta property="og:description" content="This is the description of our sample project" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://DrJustinHodges.github.io/portfolio/sample-project_turbulenceblog/" />
-<meta property="article:published_time" content="2019-05-03T19:47:09+02:00" />
-<meta property="article:modified_time" content="2019-05-03T19:47:09+02:00" />
+<meta property="og:url" content="https://DrJustinHodges.github.io/portfolio/sample-project_6_marine/" />
+<meta property="article:published_time" content="2019-05-04T19:48:09+02:00" />
+<meta property="article:modified_time" content="2019-05-04T19:48:09+02:00" />
 
-  <meta itemprop="name" content="Machine Learning and Turbulence Modeling">
+  <meta itemprop="name" content="Machine Learning for Marine Hull Design">
 <meta itemprop="description" content="This is the description of our sample project">
-<meta itemprop="datePublished" content="2019-05-03T19:47:09&#43;02:00" />
-<meta itemprop="dateModified" content="2019-05-03T19:47:09&#43;02:00" />
-<meta itemprop="wordCount" content="0">
+<meta itemprop="datePublished" content="2019-05-04T19:48:09&#43;02:00" />
+<meta itemprop="dateModified" content="2019-05-04T19:48:09&#43;02:00" />
+<meta itemprop="wordCount" content="418">
 
 
 
@@ -122,7 +122,7 @@
 
 
 <span  class="active">
-  <a href="https://DrJustinHodges.github.io/portfolio/sample-project_turbulenceblog/">Machine Learning and Turbulence Modeling</a>
+  <a href="https://DrJustinHodges.github.io/portfolio/sample-project_6_marine/">Machine Learning for Marine Hull Design</a>
   
 </span>
 
@@ -131,7 +131,7 @@
     
     <main id="content" class="portfolio">
 
-<h1>Machine Learning and Turbulence Modeling</h1>
+<h1>Machine Learning for Marine Hull Design</h1>
 <div class="tags">
   
 
@@ -147,7 +147,7 @@
   </svg>
 </div>
 
-    <a target="_blank" href="https://www.linkedin.com/posts/justin-hodges-3432a58b_machine-learning-for-turbulence-modeling-activity-6836289120185274368-iai-">https://www.linkedin.com/posts/justin-hodges-3432a58b_machine-learning-for-turbulence-modeling-activity-6836289120185274368-iai-</a>
+    <a target="_blank" href="https://drjustinhodges.github.io/portfolio/sample-project_6_Marine/">https://drjustinhodges.github.io/portfolio/sample-project_6_Marine/</a>
   </div>
 
 
@@ -160,12 +160,31 @@
   </svg>
 </div>
 
-  <span>2021</span>
+  <span>2022</span>
 </div>
 </div>
 
-<img title="Machine Learning and Turbulence Modeling" alt="Machine Learning and Turbulence Modeling" src="/portfolio/2021_August/FinalImage.png" />
+<img title="Machine Learning for Marine Hull Design" alt="Machine Learning for Marine Hull Design" src="/portfolio/Marineimage/Picture1.png" />
 
+<p>Thumbnail: Variational Autoencoder (VAE) structure diagram. The .stl files associated to different designs are used as input the encoder. The encoder creates a latent parameterization of these geometries, specifically the coordinates of the mesh points, which can be used to accurately re-create geometries at will by the decoder.</p>
+<p>This work uses Simcenter STAR-CCM+ to generate CFD data for determining the powering characteristics of a vessel and Simcenter ROM Builder and Monolith for using that data in no-code machine learning pipelines.  Firstly, in terms of capabilities, the machine learning models were able to predict several 0D performance metrics (torque, total resistance, powering, and propulsion metrics) with respect to 12 independent geometrical parameters involved in the ship design. These predictions were then supplemented with additional machine learning predictions of the spatial, flow field as well in order to provide designers with more detailed understanding of the hydrodynamic aspects of the vessel. Regarding the spatial fields, there are two main capabilities the machine learning models provided: predict results of spatial fields in the form of local contours (loads on the hull, free surface deformation, and in-flow into the propeller), and thereby also an optimization pipeline which can morph the geometry according to the desired cost function for any combination of these machine learning predictions.</p>
+<p><img src="/images/1_Marine/1.png" alt="Image1"></p>
+<p>Concept of different workflows available. Blue: the starting point where data is available (CAD files and/or CFD results). Red: machine learning models can be generated for various types of results of interest, whereby rapid predictions can be made with trained surrogates. Green: optional further usage of trained ML models to replace simulation in optimization routine.</p>
+<p><img src="/images/1_Marine/2.png" alt="Image1"></p>
+<p>Histograms for each geometric parameter used as inputs to the machine learning models. Blue: training data, orange: testing data.</p>
+<p><img src="/images/1_Marine/3.png" alt="Image1"></p>
+<p>Actual values versus the predicted values by the machine learning model on the test dataset</p>
+<p><img src="/images/1_Marine/4.png" alt="Image1"></p>
+<p>Wake fraction (V/Vvessel) plots for several randomly selected designs which were excluded from the training process. Top row: machine learning prediction. Bottom row: percentage error compared to ground truth (CFD) data.</p>
+<p><img src="/images/1_Marine/5a.png" alt="Image1">
+<img src="/images/1_Marine/5.png" alt="Image1"></p>
+<p>Water free surface comparisons between ground truth CFD simulation and machine learning predictions</p>
+<p><img src="/images/1_Marine/6.png" alt="Image1"></p>
+<p>Wall shear stress &lsquo;i&rsquo; component on hull (no-slip) wall. The machine learning predictions represent cases not used in training</p>
+<p><img src="/images/1_Marine/7.png" alt="Image1"></p>
+<p>Piezometric pressure on the bow, for CFD and machine learning predictions two validation cases (excluded from model training)</p>
+<p><img src="/images/1_Marine/8.png" alt="Image1"></p>
+<p>(Left) Nine randomly selected geometries generated by the autoencoder workflow; Blue: original (.stl), Red: autoencoder recreation through decoding. (Right) Convergence plot of the loss over the training steps for the autoencoder learning the geometry from the voxels.</p>
 
 
 
