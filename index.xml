@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Justin Hodges</copyright>
-    <lastBuildDate>Sat, 04 May 2019 19:48:09 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 19:48:09 +0200</lastBuildDate>
     
 	<atom:link href="https://DrJustinHodges.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pneumonia Classification with PyTorch</title>
+      <link>https://DrJustinHodges.github.io/portfolio/sample-project_7_pnemonia/</link>
+      <pubDate>Sun, 05 May 2019 19:48:09 +0200</pubDate>
+      
+      <guid>https://DrJustinHodges.github.io/portfolio/sample-project_7_pnemonia/</guid>
+      <description>This project builds a classifier for pneumonia detection in PyTorch from X-Ray images.
+The RSNA Pneumonia detection challenge data is from &amp;lsquo;kaggle.com/c/rsna-pneumonia-detection-challenge/&amp;rsquo;. It is nearly 27,000 X-Ray images.
+Per usual operation of Google Colab, mount to your Drive and then change directory to where your project files are held.
+Here are a list of libraries needed with associated functionality:
+Viewing different intensities after simple scaling:
+We invoke different methods for transforming/manipulating the images.</description>
+    </item>
     
     <item>
       <title>Machine Learning for Marine Hull Design</title>

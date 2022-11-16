@@ -4,20 +4,27 @@
   
   <url>
     <loc>https://DrJustinHodges.github.io/</loc>
-    <lastmod>2019-05-04T19:48:09+02:00</lastmod>
+    <lastmod>2019-05-05T19:48:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://DrJustinHodges.github.io/portfolio/sample-project_6_marine/</loc>
-    <lastmod>2019-05-04T19:48:09+02:00</lastmod>
+    <loc>https://DrJustinHodges.github.io/portfolio/sample-project_7_pnemonia/</loc>
+    <lastmod>2019-05-05T19:48:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://DrJustinHodges.github.io/portfolio/</loc>
+    <lastmod>2019-05-05T19:48:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://DrJustinHodges.github.io/portfolio/sample-project_6_marine/</loc>
     <lastmod>2019-05-04T19:48:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
